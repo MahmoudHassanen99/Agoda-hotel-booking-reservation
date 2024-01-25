@@ -50,7 +50,7 @@ Clone the repository and explore the Jupyter Notebook or Python scripts to under
 
 
 ## Dependencies
-pandas
-numpy
-matplotlib
-seaborn
+- pandas
+- numpy
+- matplotlib
+- seaborn
